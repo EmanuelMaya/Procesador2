@@ -1,0 +1,3 @@
+vhdtdtfi -prj Procesador1 -o "C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/instructionMemory.vhi" -module instructionMemory -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work instructionMemory.vhd 
+vhdtdtfi -prj Procesador1 -o "C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/instructionMemory.vhi" -module instructionMemory -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work instructionMemory.vhd 
+vhdtdtfi -prj Procesador1 -o "C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/instructionMemory.vhi" -module instructionMemory -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work instructionMemory.vhd 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/tb_ALU_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb_alu" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/tb_alu/crs1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">crs1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">crs1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alu/crs2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">crs2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">crs2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alu/uc_op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">uc_op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">uc_op[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_alu/salida_alu" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">salida_alu[31:0]</obj_property>
+      <obj_property name="ObjectShortName">salida_alu[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

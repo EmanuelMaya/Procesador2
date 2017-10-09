@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/TestBench_procesador2_isim_beh.exe" -prj "C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/TestBench_procesador2_beh.prj" "work.TestBench_procesador2" 

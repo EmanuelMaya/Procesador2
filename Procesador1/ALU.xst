@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Emanuel Maya/Documents/Digitales/Procesador1/xst"
+elaborate
+-ifn ALU.prj
+-ifmt mixed
